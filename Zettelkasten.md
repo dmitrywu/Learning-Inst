@@ -1823,17 +1823,3 @@ Zettelkasten - правдоподобная и практичная систем
 Не складируй. Переформулируй, свяжи и используй.
 ```
 
-## Использованные локальные материалы
-
-- `Learning\Zettelkasten.md`
-- `Learning\Zettelkasten для обучения система статья конспект инструкция_art.md`
-- `Learning\Obsidian как внешняя память - заметки должны возвращать к действию.md`
-- `Learning\Networked note-taking и перенос навыков_fct.md`
-- `Learning\Гиперссылки в PKM и перенос навыков_fct.md`
-- `Learning\Сетевая и иерархическая архитектура PKM_fct.md`
-- `Learning\PARA.md`
-- `Learning\CODE.md`
-- `Learning\Learning\Как делать полезные заметки. Эффективная система организации идей по методу Zettelkasten.docx.md`
-- `4sort\Как делать полезные заметки. эффективная система организации идей по методу zettelkasten.docx.md`
-- `4sort\Создаём карточки в стиле zettelkasten. картотека лумана.md`
-- `4sort\Основные ошибки в создании картотеки лумана. zettelkasten.md`
